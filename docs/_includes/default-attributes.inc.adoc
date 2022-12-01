@@ -1,5 +1,5 @@
 // Meta
-:project-name: <Projektname (T00)>
+:project-name: SE1-Cocktailversand
 // Settings:
 :toc:
 :toc-title: Inhaltsverzeichnis
